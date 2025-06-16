@@ -28,6 +28,7 @@ multiplier_project/
 ---
 
 ## 🧠 Architecture Overview
+![image](https://github.com/user-attachments/assets/8877b673-f552-46d3-bf06-9443f4787a1e)
 
 ### 🔹 Datapath Components
 
