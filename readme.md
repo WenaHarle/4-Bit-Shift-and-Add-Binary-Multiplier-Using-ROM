@@ -83,7 +83,7 @@ Connects the datapath, control unit, and ROM interface. It coordinates operand l
 
 ## 🔬 Simulation and Verification
 
-![image](https://github.com/user-attachments/assets/6aa2a5e5-f24e-43c8-a60f-fa540144d1b4)
+![image](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM/blob/main/Result4x4.png)
 
 Use the provided testbench `tb.vhd` which includes the following cases:
 
