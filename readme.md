@@ -87,11 +87,11 @@ Connects the datapath, control unit, and ROM interface. It coordinates operand l
 
 Use the provided testbench `tb.vhd` which includes the following cases:
 
-| Test Case | Multiplicand | Multiplier | Expected Product | Binary Product |
-| --------- | ------------ | ---------- | ---------------- | -------------- |
-| 1         | 3            | 3          | 9                | `00001001`     |
-| 2         | 15           | 15         | 225              | `11100001`     |
-| 3         | 0            | 5          | 0                | `00000000`     |
+| Test Case | Multiplicand | Multiplier | Expected Product | Binary Product |Hex Product  |
+| --------- | ------------ | ---------- | ---------------- | -------------- |--------------
+| 1         | 3            | 3          | 9                | `00001001`     |9|
+| 2         | 15           | 15         | 225              | `11100001`     |E1|
+| 3         | 0            | 5          | 0                | `00000000`     |0|
 
 ---
 
